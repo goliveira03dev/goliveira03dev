@@ -2,8 +2,11 @@
 ## Hello, Devs!!
 
 🎓 Sou estudante de Engenharia da Computação – 4º período
+
 🔍 Buscando de estágio ou oportunidade na área de tecnologia
+
 ⚡ Atualmente atuando com montagem elétrica industrial
+
 📚 Aprendendo constantemente e aberto a novas conexões e projetos
 
 ## Ferramentas e Tecnologias
